@@ -1,0 +1,15 @@
+Day 2 Task: Basics linux command
+
+Task: What is the linux command to
+
+Check your present working directory.   
+pwd 
+
+
+List all the files or directories including hidden files.
+ls -la
+
+
+
+Create a nested directory A/B/C/D/E
+mkdir -p A/B/C/D/E
